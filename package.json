@@ -3,7 +3,7 @@
 	"description": "JSON project ",
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
-	"version": "x.x.x",
+	"version": "1.2.0",
 	"keywords": [ "freecodecamp", "microservice", "guide" ],
 	"dependencies": {
 		"express": "^4.14.0"
